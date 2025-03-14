@@ -9,3 +9,5 @@ my work experience:
   -  prev: sr. dba, Fidelity Investments (1998-1999)
 
 my passion is tech, travel, consulting, reading
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/dinhanhthi/)
