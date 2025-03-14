@@ -4,7 +4,7 @@ My work experience:
 
   -  2015-current: working at IBM since 2015 as a data & AI leader helping my clients adopt business technology
   -  2010-2015: Specialist Leader, Deloitte Consulting
-  -  2004-2010: Consulting Director, Hackett Group 
+  -  2004-2010: Director, Hackett Group 
   -  1999-2003: Lead DBA, Boston Consulting Group
   -  1998-1999: Sr. DBA, Fidelity Investments
   -  1997-1998: DB Engineer, BBN/GTE Internetworking
