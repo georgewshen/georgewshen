@@ -1,13 +1,14 @@
-hello, there. i am george shen. thanks for stopping by!
+Hello, there. Thanks for stopping by! My name is George Shen, a tech leader with over 20 years of industry experience in data, analytics, AI/ML, GenAI, LLMs, cloud computing, automation, regulatory compliance, and digital transformation. I am well-versed in AI/ML and complex tech solution framing, business case development, strategy, value prop, methodology, best practices, roadmap, and execution. Proven track record in providing data and AI driven solutions to transform and help businesses achieve competitive advantage. Clients include many Financial Services companies, e.g. Wells Fargo, JPM Chase, ING Direct/Capital One, Fiserv, Citi Group, Fidelity, Vanguard, State St, MetLife, GEICO, Thrivent Financial, XL Catlin, Travelers, Hanover, Ameriquest Mortgage, AllianceBernstein, Regions Bank, Cigna, Experian.
 
-my work experience:
+My work experience:
 
-  -  current: working at ibm since 2015 as a data & ai leader to help my clients adopt business technology
-  -  prev: specialist leader, deloitte consulting (2010-2015)
-  -  prev: consulting director, hackett group (2004-2010)
-  -  prev: lead dba, boston consulting group (1999-2003) 
-  -  prev: sr. dba, Fidelity Investments (1998-1999)
+  -  2015-current: working at IBM since 2015 as a data & AI leader helping my clients adopt business technology
+  -  2010-2015: Specialist Leader, Deloitte Consulting
+  -  2004-2010: Consulting Director, Hackett Group 
+  -  1999-2003: Lead DBA, Boston Consulting Group
+  -  1998-1999: Sr. DBA, Fidelity Investments
+  -  1997-1998: DB Engineer, BBN/GTE Internetworking
 
-my passion is tech, travel, consulting, reading
+My passion is tech, travel, consulting, and reading.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gwshen/)](https://www.linkedin.com/in/gwshen/)
