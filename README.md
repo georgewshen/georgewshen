@@ -2,7 +2,7 @@ Hello, there. Thanks for stopping by! My name is George Shen, a tech leader with
 
 My work experience:
 
-  -  2015-current: working at IBM since 2015 as a data & AI leader helping my clients adopt business technology
+  -  2015-current: working at IBM as Data & AI leader helping my clients adopt business technology
   -  2010-2015: Specialist Leader, Deloitte Consulting
   -  2004-2010: Director, Hackett Group 
   -  1999-2003: Lead DBA, Boston Consulting Group
